@@ -1,9 +1,3 @@
-# Portfolio_Analysis
+# Tools on portfolio analysis 
 
-Some description
-
-# subheader
-
-Analyse a portfolio properly
-work on things properly 
-otherwise they may break
+Updates on current group 
